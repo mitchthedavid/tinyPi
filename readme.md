@@ -1,6 +1,6 @@
 #TinyPi Project
 
-The TinyPi project was started in an effort to create a catch-all resource for those wanting to add a screen to their Raspberry Pi. Testing of these builds is performed on a RPi2, unless otherwise stated.
+The TinyPi project was started in an effort to create a catch-all resource for those wanting to add a screen to their Raspberry Pi2. Only the 3.5" versions have been tested yet, but the commands for 3.2"/4" should work just as well.
 
 ###Screens supported by TinyPi
 #### Waveshare 
