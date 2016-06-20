@@ -12,3 +12,4 @@ The TinyPi project was started in an effort to create a catch-all resource for t
 ###Other Resources
 * [fbcp](https://github.com/tasanakorn/rpi-fbcp)
 * [Swkim01 Github](https://github.com/swkim01/waveshare-dtoverlays)
+* [Cmake](https://github.com/Kitware/CMake)
