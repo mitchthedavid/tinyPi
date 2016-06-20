@@ -1,6 +1,4 @@
-#Waveshare Screens
 
-Waveshare provides an outdated Raspbian image with all necessary touchscreen drivers pre-installed. Obviously we’d like to run a more current version of Raspbian, so this is how we can have our Pi and eat it to. 
 
 ##Waveshare Screen Output Configuration
 * ###Option 1 - Non Switchable (NS)
