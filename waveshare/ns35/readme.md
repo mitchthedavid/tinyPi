@@ -8,12 +8,12 @@ git clone https://github.com/mitchpehora/tinyPi
 
 For kernel 4.4 or newer:
 ```
-sudo cp tinyPi/waveshare/35/waveshare35a-overlay.dtb /boot/overlays/waveshare35a.dtbo
+sudo cp tinyPi/waveshare/ns35/waveshare35a-overlay.dtb /boot/overlays/waveshare35a.dtbo
 ```
 
 For kernel 4.3 or earlier:
 ```
-sudo cp tinyPi/waveshare/35/waveshare35a-overlay.dtb /boot/overlays/
+sudo cp tinyPi/waveshare/ns35/waveshare35a-overlay.dtb /boot/overlays/
 ```
 Then, open the `config.txt` file:
 ```
