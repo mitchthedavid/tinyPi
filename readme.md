@@ -4,7 +4,7 @@ The TinyPi project was started in an effort to create a catch-all resource for t
 
 ###Screens supported by TinyPi
 * [Waveshare 3.5”](http://www.waveshare.com/3.5inch-rpi-lcd-a.htm)
-  * [TinyPi setup](https://github.com/mitchpeh/tinyPi/blob/master/waveshare/35/readme.md)
+  * [TinyPi setup](https://github.com/mitchpehora/tinyPi/blob/master/waveshare/35/readme.md)
   * [Official Wiki](http://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A))
   
 
