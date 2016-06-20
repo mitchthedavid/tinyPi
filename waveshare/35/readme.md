@@ -35,3 +35,5 @@ sudo nano /etc/rc.local
 ```
 
 Add `/usr/local/bin/fbcp &` before the `exit 0` line, then `control+x` to exit, `y` to save changes, then `enter`. Reboot. You should now have an image on the touchscreen, and an image on your HDMI display.
+
+To install the touchscreen calibration tool, enter `sudo apt-get install -y xinput-calibrator` into the command line.
