@@ -6,8 +6,9 @@ The TinyPi project was started in an effort to create a catch-all resource for t
 * [Waveshare 3.5”](http://www.waveshare.com/3.5inch-rpi-lcd-a.htm)
   * [TinyPi setup](https://github.com/mitchpeh/tinyPi/blob/master/waveshare/35/readme.md)
   * [Official Wiki](http://www.waveshare.com/wiki/3.5inch_RPi_LCD_(A))
-  * [Swkim01 Github](https://github.com/swkim01/waveshare-dtoverlays)
+  
 
 
 ###Other Resources
 * [fbcp](https://github.com/tasanakorn/rpi-fbcp)
+* [Swkim01 Github](https://github.com/swkim01/waveshare-dtoverlays)
