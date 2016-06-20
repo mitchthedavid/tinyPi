@@ -15,8 +15,8 @@ Waveshare provides an outdated Raspbian image with all necessary touchscreen dri
 
 |        | NS  | SS |
 | ------------- |:-------------:| -----:|
-| 3.5"/4" screen     | right-aligned | $1600 |
-| 3.2" screen    | centered      |   $12 |
+| 3.5"/4" screen     | [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ns35)| $1600 |
+| 3.2" screen    | [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ns32)     |   $12 |
 
 
 
