@@ -13,5 +13,11 @@ Waveshare provides an outdated Raspbian image with all necessary touchscreen dri
   * Takes ~10 minutes(?) to switch from one display to the other.
   * Emulate a gameboy!
 
+|        | NS  | SS |
+| ------------- |:-------------:| -----:|
+| 3.5"/4" screen     | right-aligned | $1600 |
+| 3.2" screen    | centered      |   $12 |
+
+
 
 Each of these have different variations. Raspian support is being completed,and support for retropie with kodi as well as individual support of each.  
