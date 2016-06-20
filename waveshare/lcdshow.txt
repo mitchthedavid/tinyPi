@@ -1,1 +1,0 @@
-In an attempt to minimize lag, you can choose to output only to the touchscreen, or only to the HDMI. This can be achieved through use of a different set-up, described below. For now, switching will be achieved through manual Terminal commands. Future versions of the TinyPi project will allow for output detection and smart switching. 
