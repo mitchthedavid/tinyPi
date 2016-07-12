@@ -1,5 +1,7 @@
 #TinyPi Project
 
+![My image](http://i.imgur.com/oG7AFrJ.png)
+
 The TinyPi project was started in an effort to create a catch-all resource for those wanting to add a screen to their Raspberry Pi2. Only the 3.5" versions have been tested yet, but the commands for 3.2"/4" should work just as well.
 
 ###Screens supported by TinyPi
