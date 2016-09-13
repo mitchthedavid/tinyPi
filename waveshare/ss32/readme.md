@@ -13,7 +13,7 @@ Now, the GUI is on the touchscreen. AUDIO DOES NOT WORK
 
 To switch back to HDMI, enter
 ```
-cd tinyPi/waveshare/ss35/LCD-show/
+cd tinyPi/waveshare/ss32/LCD-show/
 sudo ./LCD-hdmi
 ```
 NO AUDIO.
