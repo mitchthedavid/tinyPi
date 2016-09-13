@@ -14,7 +14,7 @@
 |        | NS  | SS |
 | ------------- |:-------------:| -----:|
 | 3.5"/4" screen     | [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ns35)| [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ss35) |
-| 3.2" screen    | [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ns32)     |   $12 |
+| 3.2" screen    | [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ns32)     |   [Readme](https://github.com/mitchpehora/tinyPi/tree/master/waveshare/ss32) |
 
 
 
